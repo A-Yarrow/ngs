@@ -1,6 +1,5 @@
 #!/usr/bin/python
 import pandas as pd
-#import unicodecsv
 import os
 
 def get_data():
