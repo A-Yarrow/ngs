@@ -1,10 +1,8 @@
-#!/usr/bin/python
+#!/usr/bin/python2.7
+#Author: Yarrow Madrona
 import pandas as pd
 import os
 import argparse
-import matplotlib.pyplot as plt
-import seaborn as sns
-
 
 def get_data():
     parser = argparse.ArgumentParser(description='make plot of RPKM from many experiments. Inputs should be\
