@@ -1,4 +1,5 @@
 #/usr/bin/python2
+#Script to tally exon converage for RNA seq experiments
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
